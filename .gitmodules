@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/TithiGhosh18/SQLEase-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/TithiGhosh18/SQLEase-backend.git
