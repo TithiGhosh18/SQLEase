@@ -19,6 +19,15 @@
 
 ---
 
+
+## 🌐 Website
+
+
+Check out the live version of SQLEase here: [https://sql-ease.vercel.app/](https://sql-ease.vercel.app/)
+
+
+
+
 ## 🎯 What is SQLEase?
 
 **SQLEase** is a smart, user-friendly tool that uses AI to convert plain English into precise SQL queries. Whether you're a developer, analyst, or student, SQLEase makes data querying effortless—even if you're not fluent in SQL.
