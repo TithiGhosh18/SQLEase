@@ -1,4 +1,4 @@
-<h1 align="center">🧠 SQLEase - AI Powered SQL Generator ⚡</h1>
+<h1 align="center">⚡ SQLEase - AI Powered SQL Generator ⚡</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Powered-brightgreen?style=flat-square" />
